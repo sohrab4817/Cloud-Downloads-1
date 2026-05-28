@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1104",
+  "folder": "Other__DL_20260528195424_a50dfc",
+  "base_name": "Other__DL_20260528195424_a50dfc.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/tag/co-releases-v1-1104",
+  "files": [
+    {
+      "name": "Other__DL_20260528195424_a50dfc.bin",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/download/co-releases-v1-1104/Other__DL_20260528195424_a50dfc.bin",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-1/releases/assets/432376787",
+      "id": 432376787,
+      "size": 5444,
+      "download_count": 0
+    }
+  ]
+}
