@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5045",
+  "folder": "Other__DL_20260528203132_432e3e",
+  "base_name": "Other__DL_20260528203132_432e3e.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/tag/co-releases-v1-5045",
+  "files": [
+    {
+      "name": "Other__DL_20260528203132_432e3e.mp4",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/download/co-releases-v1-5045/Other__DL_20260528203132_432e3e.mp4",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-1/releases/assets/432407320",
+      "id": 432407320,
+      "size": 1289747771,
+      "download_count": 0
+    }
+  ]
+}
