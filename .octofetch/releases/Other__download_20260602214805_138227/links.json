@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1687",
+  "folder": "Other__download_20260602214805_138227",
+  "base_name": "Other__download_20260602214805_138227.mkv",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/tag/co-releases-v1-1687",
+  "files": [
+    {
+      "name": "Other__download_20260602214805_138227.mkv",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/download/co-releases-v1-1687/Other__download_20260602214805_138227.mkv",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-1/releases/assets/436623657",
+      "id": 436623657,
+      "size": 1058547249,
+      "download_count": 0
+    }
+  ]
+}
