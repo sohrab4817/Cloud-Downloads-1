@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7104",
+  "folder": "YouTube__watch_20260603110609_cb693f",
+  "base_name": "Ghosts_of_the_Void_Psychological_Thriller_Full_Movie_M3TiB1iEhH0_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/tag/co-releases-v1-7104",
+  "files": [
+    {
+      "name": "Ghosts_of_the_Void_Psychological_Thriller_Full_Movie_M3TiB1iEhH0_1080p.mp4",
+      "url": "https://github.com/sohrab4817/Cloud-Downloads-1/releases/download/co-releases-v1-7104/Ghosts_of_the_Void_Psychological_Thriller_Full_Movie_M3TiB1iEhH0_1080p.mp4",
+      "api_url": "https://api.github.com/repos/sohrab4817/Cloud-Downloads-1/releases/assets/437194946",
+      "id": 437194946,
+      "size": 678887138,
+      "download_count": 0
+    }
+  ]
+}
